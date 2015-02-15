@@ -1,0 +1,25 @@
+{
+  "name": "lodash-min",
+  "version": "3.2.0",
+  "description": "A minified, bundled build of lodash",
+  "main": "lodash.min.js",
+  "files": [
+    "lodash.min.js"
+  ],
+  "scripts": {
+    "build": "lodash modern strict exports=node -o lodash.min.js -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ide/lodash-min.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ide/lodash-min/issues"
+  },
+  "homepage": "https://github.com/ide/lodash-min",
+  "dependencies": {},
+  "devDependencies": {
+    "lodash-cli": "3.2.0"
+  }
+}
