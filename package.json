@@ -1,7 +1,7 @@
 {
-  "name": "lodash-min",
+  "name": "ld-min",
   "version": "3.2.0",
-  "description": "A minified, bundled build of lodash",
+  "description": "A minified, bundled build of lodash. It is externally maintained and not an official lodash build.",
   "main": "lodash.min.js",
   "files": [
     "lodash.min.js"
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ide/lodash-min.git"
+    "url": "https://github.com/ide/ld-min.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ide/lodash-min/issues"
+    "url": "https://github.com/ide/ld-min/issues"
   },
-  "homepage": "https://github.com/ide/lodash-min",
+  "homepage": "https://github.com/ide/ld-min",
   "dependencies": {},
   "devDependencies": {
     "lodash-cli": "3.2.0"
